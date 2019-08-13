@@ -21,3 +21,11 @@
 .post h1 a {
   color: black;
 }
+
+.post-form-bloge textarea {
+  width:100%;
+}
+
+.post-form-bloge .btn-primary{
+  float: right;
+}

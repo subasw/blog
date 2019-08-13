@@ -1,0 +1,41 @@
+[33mcommit 990f88b215ac457b442243205c6ee01fcea78347[m[33m ([m[1;36mHEAD -> [m[1;32mstep_3_create_posts[m[33m, [m[1;31morigin/step_3_create_posts[m[33m)[m
+Author: subash <sadsubash123@gmail.com>
+Date:   Tue Aug 13 16:44:37 2019 +0530
+
+    style using css and bootstrap.apply extention
+
+[33mcommit a2539cd9d327092476a5b3c5d1c1d2201487ccf0[m
+Author: subash <sadsubash123@gmail.com>
+Date:   Tue Aug 6 18:13:31 2019 +0530
+
+    add detail view for blog post
+
+[33mcommit 2af698f0a0d6360f3df89a36278965defeeefd37[m
+Author: subash <sadsubash123@gmail.com>
+Date:   Tue Aug 6 17:25:41 2019 +0530
+
+    show all blog post on the home page
+
+[33mcommit 53af54787c01cc04cd898ad76c1ef1a78722bfb5[m[33m ([m[1;31morigin/step_2_post_admin[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mstep_2_post_admin[m[33m, [m[1;32mmaster[m[33m)[m
+Author: subash <sadsubash123@gmail.com>
+Date:   Tue Aug 6 13:27:22 2019 +0530
+
+    add ability to make post from the admin
+
+[33mcommit a80cd9b37bc6f73f8a15793a7e6082b90af85509[m[33m ([m[1;31morigin/step_1_meal_prep[m[33m, [m[1;32mstep_1_meal_prep[m[33m)[m
+Author: subash <sadsubash123@gmail.com>
+Date:   Tue Aug 6 12:20:52 2019 +0530
+
+    ignore py.c file
+
+[33mcommit 6e82981f032b4add32dfd6f61d3a33c0c62d0c78[m
+Author: subash <sadsubash123@gmail.com>
+Date:   Tue Aug 6 12:11:58 2019 +0530
+
+    ignore atom project setting
+
+[33mcommit c12b73733c723b92033213d567da17c0497b61e2[m
+Author: subash <sadsubash123@gmail.com>
+Date:   Tue Aug 6 10:56:34 2019 +0530
+
+    initial commit. setting up the project for success
