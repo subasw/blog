@@ -29,3 +29,10 @@
 .post-form-bloge .btn-primary{
   float: right;
 }
+
+.top-menu, .top-menu:hover {
+  color: white;
+  float: right;
+  font-size: 26pt;
+  margin-right: 10px;
+}
