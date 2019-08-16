@@ -7,7 +7,7 @@
               </div>
 
               <h1><a href="{% url 'post_detail' pk=post.pk %}">{{ post.title }}</a></h1>
-              <p><b>{{ post.text|linebreaksbr }}</b></p><br>
+              <p><b>{{ post.text|truncatechars:30 }}</b></p><br>
             </div>
         {% endfor %}
 {% endblock %}
