@@ -25,9 +25,11 @@ SECRET_KEY = 'b0r&xxo15*c9)nn0o7*px_pymr#hx6c7(0*(25mi_clf^38c0c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [] 
+ALLOWED_HOSTS = []
 
 LOGIN_REDIRECT_URL = 'post_list'
+
+LOGOUT_REDIRECT_URL = 'post_list' 
 
 # Application definition
 
