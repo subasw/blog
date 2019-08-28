@@ -22,4 +22,8 @@ urlpatterns = [
     path('post/<int:pk>/publish/', views.post_publish, name='post_publish'),
 
     #http://127.0.0.1:8000/accounts/login this path included to the urls
+
+
+    #http://127.0.0.1:8000/post/2/comment
+    path('post/<int:pk>/comment/', views.add_comment_to_post, name='add_comment_to_post'),
 ]
