@@ -1,6 +1,6 @@
 {% extends 'bloge/base.html' %}
 
-{% block title %}Login{% endblock %} 
+{% block title %}Login{% endblock %}
 
 {% block content %}
   <h2>Login</h2>
@@ -9,4 +9,5 @@
     {{ form.as_p }}
   <button type="submit" class="btn btn-primary">Login</button>
   </form>
+  <p>Don't have an account? <a href="{% url 'signup' %}">Signup Here</a> </p>
 {% endblock %}
