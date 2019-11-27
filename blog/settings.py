@@ -27,7 +27,7 @@ DEBUG = True
 
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
-ALLOWED_HOSTS = ['https://cleverblog.herokuapp.com/']
+ALLOWED_HOSTS = []
 
 LOGIN_REDIRECT_URL = 'post_list'
 
